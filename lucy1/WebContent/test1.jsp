@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-love  jungwoo 2
+love  2
 
 </body>
 </html>
